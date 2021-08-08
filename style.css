@@ -413,6 +413,13 @@ ul{
     border: 1px solid rgb(245, 247, 255) ;
     outline: none;
 }
+#contact .container form button{
+    padding: 1rem 2rem;
+    width: 130px;
+    font-size: 1rem;
+    border: 1px solid #fff;
+    border-radius: 15px;
+}
 
 
 /* footer */
